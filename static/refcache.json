@@ -4499,6 +4499,14 @@
     "StatusCode": 206,
     "LastSeen": "2026-02-19T09:53:32.379546561Z"
   },
+  "https://github.com/bruegth": {
+    "StatusCode": 206,
+    "LastSeen": "2026-02-20T14:52:32.148342032Z"
+  },
+  "https://github.com/bruegth/opentelemetry-collector-opcua-receiver": {
+    "StatusCode": 206,
+    "LastSeen": "2026-02-20T14:52:31.767622931Z"
+  },
   "https://github.com/bruno-garcia": {
     "StatusCode": 206,
     "LastSeen": "2026-02-14T09:50:14.141290891Z"
@@ -19694,6 +19702,10 @@
   "https://refactoring.guru/design-patterns/decorator": {
     "StatusCode": 200,
     "LastSeen": "2026-02-14T09:49:40.770609792Z"
+  },
+  "https://reference.opcfoundation.org/Core/Part26/v105/docs/": {
+    "StatusCode": 200,
+    "LastSeen": "2026-02-23T19:53:15.887108697Z"
   },
   "https://repo1.maven.org/maven2/io/opentelemetry/instrumentation/opentelemetry-instrumentation-bom-alpha/2.19.0-alpha/opentelemetry-instrumentation-bom-alpha-2.19.0-alpha.pom": {
     "StatusCode": 206,
