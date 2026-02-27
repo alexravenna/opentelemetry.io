@@ -1835,6 +1835,10 @@
     "StatusCode": 206,
     "LastSeen": "2026-02-14T09:49:58.507644371Z"
   },
+  "https://docs.docker.com/get-started/get-docker/": {
+    "StatusCode": 206,
+    "LastSeen": "2026-02-23T20:41:04.55433547Z"
+  },
   "https://docs.docker.com/reference/api/engine/version/v1.52/#tag/Container/operation/ContainerInspect": {
     "StatusCode": 206,
     "LastSeen": "2026-02-14T09:50:16.192244785Z"
@@ -4855,6 +4859,10 @@
     "StatusCode": 206,
     "LastSeen": "2026-02-14T09:47:36.020141199Z"
   },
+  "https://github.com/couchbase/memcached/blob/master/docs/BinaryProtocol.md": {
+    "StatusCode": 206,
+    "LastSeen": "2026-02-23T20:41:06.763606145Z"
+  },
   "https://github.com/couchbase/spymemcached": {
     "StatusCode": 206,
     "LastSeen": "2026-02-19T09:58:16.449911984Z"
@@ -6334,6 +6342,10 @@
   "https://github.com/liatrio/liatrio-otel-collector": {
     "StatusCode": 206,
     "LastSeen": "2026-02-14T09:46:57.433374606Z"
+  },
+  "https://github.com/libbpf/bpftool": {
+    "StatusCode": 206,
+    "LastSeen": "2026-02-13T17:34:56.374733375Z"
   },
   "https://github.com/libbpf/libbpf": {
     "StatusCode": 206,
@@ -10058,6 +10070,10 @@
   "https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation": {
     "StatusCode": 206,
     "LastSeen": "2026-02-24T09:58:32.381986536Z"
+  },
+  "https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation/blob/f96ddcf28c2c13d2de7e8d20bb4932be0ec5cc90/devdocs/protocols/tcp/couchbase.md": {
+    "StatusCode": 206,
+    "LastSeen": "2026-02-14T01:22:43.069955798Z"
   },
   "https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation/discussions": {
     "StatusCode": 206,
@@ -15823,6 +15839,10 @@
     "StatusCode": 206,
     "LastSeen": "2026-02-18T09:52:39.87558075Z"
   },
+  "https://go.dev": {
+    "StatusCode": 200,
+    "LastSeen": "2026-02-23T20:41:01.825054074Z"
+  },
   "https://go.dev/": {
     "StatusCode": 200,
     "LastSeen": "2026-02-19T09:52:20.26700617Z"
@@ -18122,6 +18142,10 @@
   "https://opentelemetry.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1": {
     "StatusCode": 200,
     "LastSeen": "2026-02-25T09:58:55.515806383Z"
+  },
+  "https://opentelemetry.io/docs/collector/deployment/": {
+    "StatusCode": 206,
+    "LastSeen": "2026-02-11T21:32:19.606736801Z"
   },
   "https://opentracing.io": {
     "StatusCode": 206,
